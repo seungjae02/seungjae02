@@ -3,6 +3,7 @@ My name is **Seung Jae Yang** and here are some facts about me ⚡!
 * • I'm from Canada 🇨🇦
 * • I go to the University of Toronto 👨‍🎓
 * • I'm majoring BASc. in Compuer Engineering, and double minoring in Artificial Intelligence + Engineering Business 🔧
+* • I will be working as a STEP Software Engineer Intern at Google during Summer 22'
 * • I like programming and I aspire to become a Software Engineer 💻
 * • I love sushi 🍣
 
