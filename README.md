@@ -16,3 +16,5 @@ Connect with me:
 * • [E-Mail 📫](mailto:seungjae.yang@mail.utoronto.ca)
 * • [Facebook 💬](https://www.facebook.com/jay.yang.752861/)
 
+![google](google.svg)
+
