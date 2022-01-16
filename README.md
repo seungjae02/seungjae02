@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there 👋 Welcome to my GitHub page 🚀!
+My name is **Seung Jae Yang** and here are some facts about me ⚡!
+* • I'm from Canada 🇨🇦
+* • I go to the University of Toronto 👨‍🎓
+* • I'm majoring BASc. in Compuer Engineering, and double minoring in Artificial Intelligence + Engineering Business 🔧
+* • I like programming and I aspire to become a Software Engineer 💻
+* • I love sushi 🍣
 
-<!--
-**seungjae02/seungjae02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find all my projects on this GitHub page!
 
-Here are some ideas to get you started:
+You can also check out my [e-portfolio](https://seungjae02.github.io/seungjae/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+* • [LinkedIn 🧑‍💼](https://www.linkedin.com/in/sj-yang/)
+* • [E-Mail 📫](mailto:seungjae.yang@mail.utoronto.ca)
+* • [Facebook 💬](https://www.facebook.com/jay.yang.752861/)
+
