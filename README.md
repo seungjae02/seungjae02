@@ -1,4 +1,4 @@
-# Hello there 👋 Welcome to my GitHub page 🚀!
+# Hello there 👋. Welcome to my GitHub page 🚀!
 My name is **Seung Jae Yang** and here are some facts about me ⚡!
 * • I'm from Canada 🇨🇦
 * • I go to the University of Toronto 👨‍🎓
