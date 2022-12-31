@@ -8,7 +8,7 @@ My name is **Seung Jae Yang** and here are some facts about me ⚡!
 
 You can find all my projects on this GitHub page!
 
-You can also check out my [e-portfolio](https://seungjae02.github.io/seungjae/)!
+You can also check out my [e-portfolio](https://seungjae02.github.io/seungjae-react/)!
 
 Connect with me:
 * • [LinkedIn 🧑‍💼](https://www.linkedin.com/in/sj-yang/)
